@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Suma y Resta</string>
+    <string name="jesus_guillermo_martinez_cerqueda">Jesus Guillermo Martinez Cerqueda</string>
+    <string name="escribe_el_primer_numero">Escribe el primer numero</string>
+    <string name="suma_y_resta">Suma y Resta</string>
+    <string name="escriba_el_segundo_numero">Escriba el segundo numero</string>
+    <string name="resultado">Resultado</string>
+    <string name="_00">00</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="restar">Restar</string>
+    <string name="sumar">Sumar</string>
+</resources>
